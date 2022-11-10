@@ -1,56 +1,112 @@
 ![](https://img.shields.io/badge/Microverse-blueviolet)
 
-# Project Name
+# Portfolio Mobile Version
 
 > Description the project.
+> For the first milestone in the process of creating my portfolio website, I:
 
+> I set up a new repository and prepare it for development using best practices (e.g. linters).
+> I build the first 2 sections of the mobile website using the template 5.
 
+# 2nd  Milestone
+
+Description the project.
+> For the second milestone in the process of creating my portfolio website,
+
+> I set up a new branch "mobile-section" and prepare it for development using best practices (e.g. linters).
+> I build the second 2 sections (work-section & about-section) of the mobile website using the template 5.
+
+# 3rd Milestone
+
+Description of the project.
+
+> for the third milestone in the process of creating my portfolio website,
+
+> I set up a new branch "contact-section" and prepare it for development using best practices (e.g liners).
+> I build the third 3 sections (contact-section and footer) of the mobile website using the template 5.
+
+# 4th Milestone 
+ 
+ Description of the Project
+
+ > for the 4th milestone in the process of creating my portfolio website,
+
+ > I set up a new branch "desktop-version" and prepare it for development using best practices (e.g linters).
+
+ > build desktop version for the portfolio using the figma template 5.
+
+# Animation and Transition
+
+>  #Description
+
+> Add Transition to the Nav-Links
+> Collaborate With my Group Partner
+> Add Animation to the Buttons.
+
+# Bootstrap Framework
+
+> Build Portfolio with bootstrap
+> add navbar nav with bootstrap
 ## Built With
 
-- Major languages
-- Frameworks
-- Technologies used
+- HTML and CSS
+- Webhint
+- Stylelint
 
 ## Live Demo (if available)
 
-[Live Demo Link](https://livedemo.com)
+[Live Demo Link](http://127.0.0.1:5500/index.html)
 
 
 ## Getting Started
 
-**This is an example of how you may give instructions on setting up your project locally.**
-**Modify this file to match your project, remove sections that don't apply. For example: delete the testing section if the currect project doesn't require testing.**
-
+Cloning this project Git clone https://github.com/solorics/Portfolio-Mobile-First.git
 
 To get a local copy up and running follow these simple example steps.
 
 ### Prerequisites
+. A working browser application.
+. VS code or anu other IDE
+. NPM (Node Package Manager)
+
+
+To get a local copy up and running follow these simple example steps.
 
 ### Setup
-
 ### Install
 
+### INSTALLING AND TESTING WEBHINT
+
+. npm init -y
+. npm install --save-dev hint@6.x
+
+For validation detection to use Webhint Run -npx hint .
+
+##INSTALLING AND TESTING STYLEHINT
+
+. npm install --save-dev stylelint@13.x stylelint-scss@3.x stylelint-config-standard@21.x stylelint-csstree-validator@1.x
+For validation detection to use Webhint Run
+
+. npx stylelint "**/*.{css,scss}"
 ### Usage
-
 ### Run tests
-
 ### Deployment
 
+ . Github
 
 
 ## Authors
 
-👤 **Author1**
+👤 **Solorics**
 
-- GitHub: [@githubhandle](https://github.com/githubhandle)
-- Twitter: [@twitterhandle](https://twitter.com/twitterhandle)
-- LinkedIn: [LinkedIn](https://linkedin.com/in/linkedinhandle)
 
-👤 **Author2**
+- GitHub: [@githubhandle](https://github.com/solorics)
+- Twitter: [@twitterhandle](https://twitter.com/Solorics2)
+- LinkedIn: [LinkedIn](https://www.linkedin.com/in/solomon-opeyemi-0427a6155/)
 
-- GitHub: [@githubhandle](https://github.com/githubhandle)
-- Twitter: [@twitterhandle](https://twitter.com/twitterhandle)
-- LinkedIn: [LinkedIn](https://linkedin.com/in/linkedinhandle)
+👤 **c00p75**
+
+- Github: [@githubhandle](https://github.com/c00p75)
 
 ## 🤝 Contributing
 
